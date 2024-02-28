@@ -52,7 +52,7 @@ The project employs advanced NLP techniques to comprehend and interpret human la
 
 ---
 
-This article provides a comprehensive overview of [Your Project Name], highlighting its groundbreaking features and offering a peek into the structured architecture that forms its backbone. Developers and enthusiasts alike are invited to explore, contribute, and join the journey of transforming AI-powered applications.
+This article provides a comprehensive overview of Unveiling J3mB0uTe_Project: Revolutionizing AI-powered Applications, highlighting its groundbreaking features and offering a peek into the structured architecture that forms its backbone. Developers and enthusiasts alike are invited to explore, contribute, and join the journey of transforming AI-powered applications.
 
 ```markdown
 <div align="center">
@@ -232,6 +232,178 @@ Here's an overview of the project structure:
 
 This structure is organized into folders for controllers, AI models, services, routes, database migrations, configuration, resources, public assets, frontend, and tests. Customize and extend the structure based on your specific project needs.
 ```
+Certainly! For assembly language programming for different architectures, you typically use specific toolchains or software development kits (SDKs) that are tailored to each architecture. Here's a list of common tools and SDKs associated with the mentioned architectures:
+
+1. **x86 (Intel/AMD):**
+   - **Assembler:** NASM (Netwide Assembler), MASM (Microsoft Macro Assembler)
+   - **IDE:** Microsoft Visual Studio, NASMIDE
+
+2. **x86-64 (Intel/AMD, 64-bit extension):**
+   - **Assembler:** NASM, MASM
+   - **IDE:** Microsoft Visual Studio, NASMIDE
+
+3. **ARM:**
+   - **Assembler:** GNU Assembler (GAS), Keil, ARM Assembly Compiler
+   - **IDE:** Keil, ARM DS-5, Visual Studio Code with ARM extensions
+
+4. **MIPS:**
+   - **Assembler:** MIPS Assembler (SPIM), MARS (MIPS Assembler and Runtime Simulator)
+   - **IDE:** Visual Studio Code with MIPS extensions
+
+5. **PowerPC:**
+   - **Assembler:** GNU Assembler (GAS)
+   - **IDE:** Xcode (for macOS development)
+
+6. **SPARC:**
+   - **Assembler:** GNU Assembler (GAS)
+   - **IDE:** SPARC architecture is often used in embedded systems without specific IDEs.
+
+7. **68000 (Motorola):**
+   - **Assembler:** AS68K
+   - **IDE:** Devpac
+
+8. **Z80 (Zilog):**
+   - **Assembler:** Z80ASM
+   - **IDE:** ZX Spin (for ZX Spectrum development)
+
+9. **RISC-V:**
+   - **Assembler:** GNU Assembler (GAS), RISC-V tools
+   - **IDE:** Visual Studio Code with RISC-V extensions
+
+10. **AVR (Atmel AVR microcontrollers):**
+    - **Assembler:** AVR Assembler
+    - **IDE:** Atmel Studio, Arduino IDE
+
+11. **Alpha (Digital Alpha architecture processors):**
+    - **Assembler:** Alpha Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+12. **PDP-11 (DEC PDP-11 architecture processors):**
+    - **Assembler:** MACRO-11
+    - **IDE:** No specific IDE; often used with text editors.
+
+13. **HP-PA (Hewlett-Packard Precision Architecture processors):**
+    - **Assembler:** HP-PA Assembler
+    - **IDE:** No specific IDE; often used with text editors.
+
+14. **VAX (Digital VAX architecture processors):**
+    - **Assembler:** VAX Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+15. **6809 (Motorola 6809 processors):**
+    - **Assembler:** 6809 Assembler
+    - **IDE:** Flex9, EDTASM
+
+16. **Transputer (INMOS Transputer processors):**
+    - **Assembler:** INMOS Occam
+    - **IDE:** No specific IDE; often used with text editors.
+
+17. **SH-4 (SuperH SH-4 architecture processors):**
+    - **Assembler:** Renesas SH Assembler
+    - **IDE:** No specific IDE; often used with text editors.
+
+18. **6502 (MOS Technology 6502 processors):**
+    - **Assembler:** 6502 Assembler
+    - **IDE:** NESASM (for NES development), Visual Studio Code with 6502 extensions
+
+19. **PIC (Microchip PIC microcontrollers):**
+    - **Assembler:** MPLAB XC8
+    - **IDE:** MPLAB X IDE
+
+20. **DSP (Various assembly languages for Digital Signal Processors):**
+    - **Assembler:** Various, depending on the DSP model (e.g., TMS320 assembly for Texas Instruments DSPs)
+    - **IDE:** Typically vendor-specific tools
+
+21. **NEC V20/V30 (NEC V20/V30 processors):**
+    - **Assembler:** V20/V30 Assembler
+    - **IDE:** No specific IDE; often used with text editors.
+
+22. **S/360 (IBM System/360 architecture):**
+    - **Assembler:** IBM High-Level Assembler (HLASM)
+    - **IDE:** No specific IDE; often used with text editors.
+
+23. **AS/400 (IBM AS/400 architecture):**
+    - **Assembler:** AS/400 Assembly Language
+    - **IDE:** IBM Rational Developer for i
+
+24. **PDP-8 (DEC PDP-8 architecture processors):**
+    - **Assembler:** PAL-III Assembler
+    - **IDE:** No specific IDE; often used with text editors.
+
+25. **Itanium (Intel Itanium architecture):**
+    - **Assembler:** IA-64 Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+26. **PDP-10 (DEC PDP-10 architecture, mainframes):**
+    - **Assembler:** TOPS-10 Assembler
+    - **IDE:** No specific IDE; often used with text editors.
+
+27. **CDC 6600 (Control Data Corporation 6600 architecture, supercomputers):**
+    - **Assembler:** CDC 6000 Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+28. **CRAY-1 (CRAY-1 architecture, supercomputers):**
+    - **Assembler:** Cray Assembly Language (CAL)
+    - **IDE:** No specific IDE; often used with text editors.
+
+29. **Blackfin (Analog Devices Blackfin DSP architecture):**
+    - **Assembler:** Blackfin Assembly Language
+    - **IDE:** VisualDSP++ (Integrated Development Environment for Blackfin processors)
+
+30. **OpenRISC (OpenRISC open-source architecture):**
+    - **Assembler:** Or1k Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+31. **HPPA (Hewlett-Packard Precision Architecture, used in HP workstations):**
+    - **Assembler:** HP-UX Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+32. **SPARC64 (64-bit SPARC architecture, used in high-performance servers):**
+    - **Assembler:** SPARC Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+33. **V850 (NEC V850 architecture, used in automotive and industrial applications):**
+    - **Assembler:** V850 Assembly Language
+    - **IDE:** Renesas HEW (High-performance Embedded Workshop)
+
+34. **ColdFire (Freescale ColdFire architecture, used in embedded systems):**
+    - **Assembler:** ColdFire Assembly Language
+    - **IDE:** CodeWarrior Development Studio for ColdFire
+
+35. **FR-V (Fujitsu FR-V architecture, used in multimedia processors):**
+    - **Assembler:** FR-V Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+36. **TMS320 (Texas Instruments TMS320 DSP architecture):**
+    - **Assembler:** TMS320 Assembly Language
+    - **IDE:** Code Composer Studio
+
+37. **AVR32 (Atmel AVR32 architecture, used in microcontrollers):**
+    - **Assembler:** AVR32 Assembly Language
+    - **IDE:** Atmel Studio
+
+38. **Xtensa (Tensilica Xtensa architecture, configurable processors):**
+    - **Assembler:** Xtensa Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+39. **OpenPOWER (OpenPOWER architecture, open and licensable):**
+    - **Assembler:** PowerISA Assembly Language
+    - **IDE:** No specific IDE; often used with text editors.
+
+40. **RISC-V RV32I (32-bit RISC-V architecture, base integer instruction set):**
+    - **Assembler:** RISC-V Assembly Language (GNU Assembler)
+    - **IDE:** Visual Studio Code with RISC-V extensions
+
+41. **RISC-V RV64I (64-bit RISC-V architecture, base integer instruction set):**
+    - **Assembler:** RISC-V Assembly Language (GNU Assembler)
+    - **IDE:** Visual Studio Code with RISC-V extensions
+
+42. **RISC-V RV128I (128-bit RISC-V architecture, base integer instruction set):**
+    - **Assembler:** RISC-V Assembly Language (GNU Assembler)
+    - **IDE:** Visual Studio Code with RISC-V extensions
+
+Please note that for some architectures, especially those used in specific embedded systems or supercomputers, the development tools may be more specialized, and developers often use custom toolchains or scripts along with text editors. Additionally, the availability of specific tools may vary, and it's recommended to check the latest documentation or community resources for each architecture.
+
 ```
 ## Getting Started
 
