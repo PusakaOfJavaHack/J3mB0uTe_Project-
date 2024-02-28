@@ -168,66 +168,66 @@ Here's an overview of the project structure:
 ```plaintext
 |-- AI/
 |#####|-- Models/
-|++++++++++++++++|-- NaturalLanguageProcessing 
-|++++++++++++++++|-- ImageRecognition 
-|++++++++++++++++|-- RecommendationEngine 
-<- |++++++++++++++++|SentimentAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|SpeechRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|FacialRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|ObjectDetection<- |++++++++++++++++|
-<- |++++++++++++++++|EmotionRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|LanguageTranslation<- |++++++++++++++++|
-<- |++++++++++++++++|GenerativeModel<- |++++++++++++++++|
-<- |++++++++++++++++|AnomalyDetection<- |++++++++++++++++|
-<- |++++++++++++++++|ChatSentimentAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|NamedEntityRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|KnowledgeGraph<- |++++++++++++++++|
-<- |++++++++++++++++|QuestionAnswering<- |++++++++++++++++|
-<- |++++++++++++++++|UserIntentRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|TextSummarization<- |++++++++++++++++|
-<- |++++++++++++++++|ImageGeneration<- |++++++++++++++++|
-<- |++++++++++++++++|GestureRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|StyleTransfer<- |++++++++++++++++|
-<- |++++++++++++++++|FraudDetection<- |++++++++++++++++|
-<- |++++++++++++++++|DiseaseDiagnosis<- |++++++++++++++++|
-<- |++++++++++++++++|PersonalityPrediction<- |++++++++++++++++|
-<- |++++++++++++++++|ObjectRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|CustomerSegmentation<- |++++++++++++++++|
-<- |++++++++++++++++|WeatherPrediction<- |++++++++++++++++|
-<- |++++++++++++++++|StockMarketAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|LanguageUnderstanding<- |++++++++++++++++|
-<- |++++++++++++++++|VideoRecommendation<- |++++++++++++++++|
-<- |++++++++++++++++|FaceMaskDetection<- |++++++++++++++++|
-<- |++++++++++++++++|CyberSecurityThreatAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|DocumentClassification<- |++++++++++++++++|
-<- |++++++++++++++++|HandwritingRecognition<- |++++++++++++++++|
-<- |++++++++++++++++|CustomerReviewAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|MusicRecommendation<- |++++++++++++++++|
-<- |++++++++++++++++|RecipeGeneration<- |++++++++++++++++|
-<- |++++++++++++++++|VirtualAssistant<- |++++++++++++++++|
-<- |++++++++++++++++|LanguageGeneration<- |++++++++++++++++|
-<- |++++++++++++++++|JobRecommendation<- |++++++++++++++++|
-<- |++++++++++++++++|ChatbotTesting<- |++++++++++++++++|
-<- |++++++++++++++++|TrafficPrediction<- |++++++++++++++++|
-<- |++++++++++++++++|EventDetection<- |++++++++++++++++|
-<- |++++++++++++++++|EmployeePerformanceAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelX<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelY<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelZ<- |++++++++++++++++|
-<- |++++++++++++++++|SentimentBasedProductRecommendation<- |++++++++++++++++|
-<- |++++++++++++++++|WildlifeSpeciesIdentification<- |++++++++++++++++|
-<- |++++++++++++++++|FraudulentActivityDetection<- |++++++++++++++++|
-<- |++++++++++++++++|HealthMonitoring<- |++++++++++++++++|
-<- |++++++++++++++++|ObjectLocalization<- |++++++++++++++++|
-<- |++++++++++++++++|TextToSpeech<- |++++++++++++++++|
-<- |++++++++++++++++|FaceRecognitionUnlock<- |++++++++++++++++|
-<- |++++++++++++++++|SocialMediaSentimentAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|LanguageInference<- |++++++++++++++++|
-<- |++++++++++++++++|VideoContentAnalysis<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelA<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelB<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelC<- |++++++++++++++++|
-<- |++++++++++++++++|AIModelD<- |++++++++++++++++|
+[+++{69}+++}---> NaturalLanguageProcessing 
+[+++{69}+++}---> ImageRecognition
+[+++{69}+++}---> RecommendationEngine
+[+++{69}+++}---> SentimentAnalysis
+[+++{69}+++}---> SpeechRecognition
+[+++{69}+++}---> FacialRecognition
+[+++{69}+++}---> ObjectDetection
+[+++{69}+++}---> EmotionRecognition
+[+++{69}+++}---> LanguageTranslation
+[+++{69}+++}---> GenerativeModel
+[+++{69}+++}---> AnomalyDetection
+[+++{69}+++}---> ChatSentimentAnalysis
+[+++{69}+++}---> NamedEntityRecognition
+[+++{69}+++}---> KnowledgeGraph
+[+++{69}+++}---> QuestionAnswering
+[+++{69}+++}---> UserIntentRecognition
+[+++{69}+++}---> TextSummarization
+[+++{69}+++}---> ImageGeneration
+[+++{69}+++}---> GestureRecognition
+[+++{69}+++}---> StyleTransfer
+[+++{69}+++}---> FraudDetection
+[+++{69}+++}---> DiseaseDiagnosis
+[+++{69}+++}---> PersonalityPrediction
+[+++{69}+++}---> ObjectRecognition
+[+++{69}+++}---> CustomerSegmentation
+[+++{69}+++}---> WeatherPrediction
+[+++{69}+++}---> StockMarketAnalysis
+[+++{69}+++}---> LanguageUnderstanding
+[+++{69}+++}---> VideoRecommendation
+[+++{69}+++}---> FaceMaskDetection
+[+++{69}+++}---> CyberSecurityThreatAnalysis
+[+++{69}+++}---> DocumentClassification
+[+++{69}+++}---> HandwritingRecognition
+[+++{69}+++}---> CustomerReviewAnalysis
+[+++{69}+++}---> MusicRecommendation
+[+++{69}+++}---> RecipeGeneration
+[+++{69}+++}---> VirtualAssistant
+[+++{69}+++}---> LanguageGeneration
+[+++{69}+++}---> JobRecommendation
+[+++{69}+++}---> ChatbotTesting
+[+++{69}+++}---> TrafficPrediction
+[+++{69}+++}---> EventDetection
+[+++{69}+++}---> EmployeePerformanceAnalysis
+[+++{69}+++}---> AIModelX
+[+++{69}+++}---> AIModelY
+[+++{69}+++}---> AIModelZ
+[+++{69}+++}---> SentimentBasedProductRecommendation
+[+++{69}+++}---> WildlifeSpeciesIdentification
+[+++{69}+++}---> FraudulentActivityDetection
+[+++{69}+++}---> HealthMonitoring
+[+++{69}+++}---> ObjectLocalization
+[+++{69}+++}---> TextToSpeech
+[+++{69}+++}---> FaceRecognitionUnlock
+[+++{69}+++}---> SocialMediaSentimentAnalysis
+[+++{69}+++}---> LanguageInference
+[+++{69}+++}---> VideoContentAnalysis
+[+++{69}+++}---> AIModelA
+[+++{69}+++}---> AIModelB
+[+++{69}+++}---> AIModelC
+[+++{69}+++}---> AIModelD
 ```
 
 This structure is organized into folders for controllers, AI models, services, routes, database migrations, configuration, resources, public assets, frontend, and tests. Customize and extend the structure based on your specific project needs.
