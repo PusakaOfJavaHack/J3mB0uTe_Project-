@@ -405,7 +405,7 @@ Certainly! For assembly language programming for different architectures, you ty
 Please note that for some architectures, especially those used in specific embedded systems or supercomputers, the development tools may be more specialized, and developers often use custom toolchains or scripts along with text editors. Additionally, the availability of specific tools may vary, and it's recommended to check the latest documentation or community resources for each architecture.
 ```
 
-![PT PusakaOfHava Indonesia Corp]([url](https://kreatifindonesia.com/wp-content/uploads/2023/10/PT-Pusakaofjava-Indonesia-Corp_20230922_054937_0000-1-1024x1024.png))
+!(images/example.png)
 ## Getting Started
 
 [Detailed steps to guide users on setting up the project locally. Include prerequisites and installation instructions.]
