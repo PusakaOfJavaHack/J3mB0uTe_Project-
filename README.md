@@ -442,9 +442,9 @@ Distributed under the [MIT License](LICENSE). See `LICENSE` for more information
 
 ## Contact
 
-[Your Full Name] - [Your Email Address]
+[Ade Arya Wicaksono] - [Your Email Address]
 
-Project Link: [Link to your project on GitHub]
+Forum Project Link: [PusakaOfJava Indonesia Corp SERVCommunity](https://discord.gg/NDexWAf2zA)
 
 [Optional: Additional contact information or links to your social media profiles]
 ```
